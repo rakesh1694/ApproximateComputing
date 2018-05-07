@@ -1,3 +1,7 @@
+Dependencies:
+Python 3
+OpenCV
+
 This python module can be used to calculate the mean edge value of an image as well as the minimum image shape for which the image edge map similarity value is greater than a given threshold.
 
 Here is a sample python code describing how to use this module:
